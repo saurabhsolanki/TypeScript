@@ -1,0 +1,29 @@
+{
+  "signup": [
+    {
+      "email": "s@gmail.com",
+      "password": "1234",
+      "name": "Tapish",
+      "tasks": [
+        {
+          "title": "Learn React"
+        },
+        {
+          "title": "Learn Angular"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "email": "s1@gmail.com",
+      "password": "1234",
+      "name": "saurabh",
+      "tasks": [
+        {
+          "title": "Learn TypeScript"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
